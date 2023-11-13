@@ -1,0 +1,22 @@
+.contacts {
+    max-width: 940px;
+    margin: 0 auto;
+}
+
+.form-global-container {
+    border: 1px solid black;
+    padding: 30px;
+    width: 70%;
+    background-color: beige;
+}
+
+textarea {
+    resize: none;
+}
+
+.form-container {
+    width: 50%;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between
+}
